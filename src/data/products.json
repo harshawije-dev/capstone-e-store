@@ -1,0 +1,44 @@
+{
+  "shirts": [
+    {
+      "id": "457e3e5f-c823-477a-b929-975e7c587132",
+      "title": "Polo Red T-Shirt",
+      "img": "https://i.ibb.co/JjShTBG/red-polo.png",
+      "category": "T-Shirt",
+      "brand": "POLO",
+      "amount": 2500
+    },
+    {
+      "id": "26b5bd49-1842-4ffe-b791-4f1000829a80",
+      "title": "Polo Purple T-Shirt",
+      "img": "https://i.ibb.co/wYH6TRV/purple-polo.png",
+      "category": "T-Shirt",
+      "brand": "POLO",
+      "amount": 1590
+    },
+    {
+      "id": "fdb9eac3-6c29-4c9f-a03b-045a57075643",
+      "title": "Polo Blue T-Shirt",
+      "img": "https://i.ibb.co/DfR84Q8/light-blue-polo.png",
+      "category": "T-Shirt",
+      "brand": "POLO",
+      "amount": 1560
+    },
+    {
+      "id": "b3c0872a-3fab-4cca-8380-212d250ab9c8",
+      "title": "Polo White T-Shirt",
+      "img": "https://i.ibb.co/yVvJCJy/white-polo.png",
+      "category": "T-Shirt",
+      "brand": "POLO",
+      "amount": 2560
+    },
+    {
+      "id": "8a4becb6-1321-4309-b79d-6775a98dad36",
+      "title": "Polo Black T-Shirt",
+      "img": "https://i.ibb.co/j8xXsjB/black-polo.png",
+      "category": "T-Shirt",
+      "brand": "POLO",
+      "amount": 3000
+    }
+  ]
+}
